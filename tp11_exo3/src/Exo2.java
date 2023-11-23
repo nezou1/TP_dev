@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Exo2 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        int c;//choix
+        int c; //choix
         int nbEtud;
         double[] note;
         double moyenne;
